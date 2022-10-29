@@ -729,3 +729,616 @@ Recommended: 22.2.2
 [2022.10.29-09.37.21:591][897]LogViewport: Scene viewport resized to 539x215, mode Windowed.
 [2022.10.29-09.37.21:749][897]LogViewport: Scene viewport resized to 539x216, mode Windowed.
 [2022.10.29-09.38.55:396][460]LogDerivedDataCache: C:/Users/UKGC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.202 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.29-09.49.08:319][258]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.29-09.49.08:319][258]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.10.29-09.49.08:319][258]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.29-09.49.08:319][258]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: URL: C:\Users\UKGC\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: URL: C:\Users\UKGC\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.29-09.49.08:320][258]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.10.29-09.49.14:511][693]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2022.10.29-09.49.14:511][693]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/ version
+[2022.10.29-09.49.53:445][498]SourceControl: Source control is disabled
+[2022.10.29-09.49.53:445][498]LogSlate: Window 'Source Control Login' being destroyed
+[2022.10.29-09.50.42:341][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.29-09.52.55:315][364]LogViewport: Scene viewport resized to 539x224, mode Windowed.
+[2022.10.29-09.52.55:361][366]LogViewport: Scene viewport resized to 539x247, mode Windowed.
+[2022.10.29-09.52.55:415][368]LogViewport: Scene viewport resized to 539x269, mode Windowed.
+[2022.10.29-09.52.55:475][370]LogViewport: Scene viewport resized to 539x293, mode Windowed.
+[2022.10.29-09.52.55:532][372]LogViewport: Scene viewport resized to 539x318, mode Windowed.
+[2022.10.29-09.52.55:581][374]LogViewport: Scene viewport resized to 539x338, mode Windowed.
+[2022.10.29-09.52.55:628][376]LogViewport: Scene viewport resized to 539x344, mode Windowed.
+[2022.10.29-09.52.55:669][378]LogViewport: Scene viewport resized to 539x356, mode Windowed.
+[2022.10.29-09.52.55:711][380]LogViewport: Scene viewport resized to 539x363, mode Windowed.
+[2022.10.29-09.52.55:750][382]LogViewport: Scene viewport resized to 539x367, mode Windowed.
+[2022.10.29-09.52.55:789][384]LogViewport: Scene viewport resized to 539x371, mode Windowed.
+[2022.10.29-09.52.55:830][386]LogViewport: Scene viewport resized to 539x377, mode Windowed.
+[2022.10.29-09.52.55:870][388]LogViewport: Scene viewport resized to 539x383, mode Windowed.
+[2022.10.29-09.52.55:910][390]LogViewport: Scene viewport resized to 539x384, mode Windowed.
+[2022.10.29-09.52.55:947][392]LogViewport: Scene viewport resized to 539x390, mode Windowed.
+[2022.10.29-09.52.55:985][394]LogViewport: Scene viewport resized to 539x392, mode Windowed.
+[2022.10.29-09.55.59:241][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.10.29-09.55.59:241][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-09.56.00:172][372]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.29-09.56.08:984][ 95]LogSlate: Window 'BP_Rifle' being destroyed
+[2022.10.29-09.56.08:989][ 95]LogSlate: Window 'BP_Rifle' being destroyed
+[2022.10.29-09.56.08:998][ 95]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.56.08:998][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.57.45:564][586]LogViewport: Scene viewport resized to 539x379, mode Windowed.
+[2022.10.29-09.57.45:601][588]LogViewport: Scene viewport resized to 539x350, mode Windowed.
+[2022.10.29-09.57.45:636][590]LogViewport: Scene viewport resized to 539x303, mode Windowed.
+[2022.10.29-09.57.45:670][592]LogViewport: Scene viewport resized to 539x270, mode Windowed.
+[2022.10.29-09.57.45:722][596]LogViewport: Scene viewport resized to 539x233, mode Windowed.
+[2022.10.29-09.57.45:759][598]LogViewport: Scene viewport resized to 539x212, mode Windowed.
+[2022.10.29-09.57.45:801][600]LogViewport: Scene viewport resized to 539x195, mode Windowed.
+[2022.10.29-09.57.45:840][602]LogViewport: Scene viewport resized to 539x179, mode Windowed.
+[2022.10.29-09.57.45:879][604]LogViewport: Scene viewport resized to 539x162, mode Windowed.
+[2022.10.29-09.58.32:287][214]LogViewport: Scene viewport resized to 539x166, mode Windowed.
+[2022.10.29-09.58.32:313][216]LogViewport: Scene viewport resized to 539x193, mode Windowed.
+[2022.10.29-09.58.32:350][218]LogViewport: Scene viewport resized to 539x220, mode Windowed.
+[2022.10.29-09.58.32:384][220]LogViewport: Scene viewport resized to 539x227, mode Windowed.
+[2022.10.29-09.58.32:417][222]LogViewport: Scene viewport resized to 539x239, mode Windowed.
+[2022.10.29-09.58.32:452][224]LogViewport: Scene viewport resized to 539x262, mode Windowed.
+[2022.10.29-09.58.32:485][226]LogViewport: Scene viewport resized to 539x275, mode Windowed.
+[2022.10.29-09.58.53:159][688]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.10.29-09.58.53:163][688]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.10.29-09.58.53:396][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.10.29-09.58.53:401][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.10.29-09.58.53:413][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.10.29-09.58.53:417][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.10.29-09.58.53:421][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.10.29-09.58.53:424][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.10.29-09.58.53:426][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.10.29-09.58.53:429][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.10.29-09.58.53:431][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.10.29-09.58.53:434][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.10.29-09.58.53:440][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.10.29-09.58.53:446][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.10.29-09.58.53:460][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.10.29-09.58.53:468][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Maps/StarterMap.umap"
+[2022.10.29-09.58.53:542][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.10.29-09.58.53:546][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.10.29-09.58.53:549][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.10.29-09.58.53:556][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.10.29-09.58.53:559][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.10.29-09.58.53:561][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.10.29-09.58.53:565][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.10.29-09.58.53:567][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.10.29-09.58.53:570][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.10.29-09.58.53:573][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.10.29-09.58.53:575][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.10.29-09.58.53:578][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.10.29-09.58.53:581][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.10.29-09.58.53:585][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.10.29-09.58.53:589][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.10.29-09.58.53:591][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.10.29-09.58.53:595][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.10.29-09.58.53:598][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.10.29-09.58.53:601][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.10.29-09.58.53:603][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.10.29-09.58.53:606][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.10.29-09.58.53:609][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.10.29-09.58.53:613][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.10.29-09.58.53:616][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.10.29-09.58.53:619][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.10.29-09.58.53:621][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.10.29-09.58.53:623][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.10.29-09.58.53:627][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.10.29-09.58.53:632][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.10.29-09.58.53:635][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.10.29-09.58.53:637][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.10.29-09.58.53:640][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.10.29-09.58.53:643][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.10.29-09.58.53:646][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.10.29-09.58.53:649][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.10.29-09.58.53:651][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.10.29-09.58.53:655][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.10.29-09.58.53:658][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.10.29-09.58.53:663][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.10.29-09.58.53:665][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.10.29-09.58.53:669][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.10.29-09.58.53:671][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.10.29-09.58.53:675][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.10.29-09.58.53:681][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Fire01.uasset"
+[2022.10.29-09.58.53:685][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.10.29-09.58.53:691][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.10.29-09.58.53:694][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.10.29-09.58.53:698][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Light01.uasset"
+[2022.10.29-09.58.53:700][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.10.29-09.58.53:704][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Light02.uasset"
+[2022.10.29-09.58.53:707][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.10.29-09.58.53:711][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.10.29-09.58.53:713][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.10.29-09.58.53:715][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.10.29-09.58.53:731][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.10.29-09.58.53:764][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.10.29-09.58.53:767][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.10.29-09.58.53:779][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.10.29-09.58.53:789][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.10.29-09.58.53:795][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Steam01.uasset"
+[2022.10.29-09.58.53:798][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.10.29-09.58.53:802][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.10.29-09.58.53:805][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.10.29-09.58.53:809][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.10.29-09.58.53:812][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.10.29-09.58.53:815][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.10.29-09.58.53:818][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Door.uasset"
+[2022.10.29-09.58.53:820][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.10.29-09.58.53:823][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.10.29-09.58.53:826][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.10.29-09.58.53:829][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.10.29-09.58.53:840][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.10.29-09.58.53:843][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.10.29-09.58.53:845][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.10.29-09.58.53:849][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.10.29-09.58.53:851][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.10.29-09.58.53:854][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.10.29-09.58.53:859][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.10.29-09.58.53:864][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.10.29-09.58.53:867][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.10.29-09.58.53:869][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.10.29-09.58.53:873][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.10.29-09.58.53:876][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.10.29-09.58.53:879][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.10.29-09.58.53:882][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.10.29-09.58.53:886][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.10.29-09.58.53:889][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.10.29-09.58.53:891][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.10.29-09.58.53:895][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.10.29-09.58.53:898][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.10.29-09.58.53:903][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.10.29-09.58.53:906][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.10.29-09.58.53:909][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.10.29-09.58.53:911][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.10.29-09.58.53:915][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.10.29-09.58.53:919][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.10.29-09.58.53:921][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.10.29-09.58.53:924][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.10.29-09.58.53:928][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.10.29-09.58.53:931][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.10.29-09.58.53:934][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.10.29-09.58.53:940][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.10.29-09.58.53:943][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.10.29-09.58.53:946][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.10.29-09.58.53:949][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.10.29-09.58.53:952][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.10.29-09.58.53:955][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.10.29-09.58.53:959][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.10.29-09.58.53:962][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.10.29-09.58.53:965][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.10.29-09.58.53:967][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.10.29-09.58.53:971][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.10.29-09.58.53:974][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.10.29-09.58.53:976][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.10.29-09.58.53:981][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.10.29-09.58.53:984][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.10.29-09.58.53:986][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.10.29-09.58.53:989][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.10.29-09.58.53:993][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.10.29-09.58.53:995][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.10.29-09.58.53:998][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.10.29-09.58.54:001][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.10.29-09.58.54:004][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.10.29-09.58.54:035][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.10.29-09.58.54:068][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.10.29-09.58.54:092][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.10.29-09.58.54:111][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.10.29-09.58.54:145][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.10.29-09.58.54:183][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.10.29-09.58.54:233][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.10.29-09.58.54:263][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.10.29-09.58.54:311][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.10.29-09.58.54:341][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.10.29-09.58.54:371][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.10.29-09.58.54:399][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.10.29-09.58.54:432][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.10.29-09.58.54:437][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.10.29-09.58.54:443][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.10.29-09.58.54:447][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.10.29-09.58.54:451][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.10.29-09.58.54:456][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.10.29-09.58.54:460][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.10.29-09.58.54:472][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.10.29-09.58.54:475][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.10.29-09.58.54:513][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.10.29-09.58.54:521][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.10.29-09.58.54:560][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.10.29-09.58.54:575][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.10.29-09.58.54:587][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.10.29-09.58.54:608][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.10.29-09.58.54:631][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.10.29-09.58.54:666][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.10.29-09.58.54:702][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.10.29-09.58.54:733][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.10.29-09.58.54:762][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.10.29-09.58.54:798][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.10.29-09.58.54:820][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.10.29-09.58.54:838][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.10.29-09.58.54:860][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.10.29-09.58.54:887][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.10.29-09.58.54:889][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.10.29-09.58.54:904][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.10.29-09.58.54:909][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.10.29-09.58.54:917][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.10.29-09.58.54:920][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.10.29-09.58.54:934][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.10.29-09.58.54:941][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.10.29-09.58.54:946][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.10.29-09.58.54:953][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.10.29-09.58.54:959][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.10.29-09.58.54:962][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.10.29-09.58.55:005][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.10.29-09.58.55:046][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.10.29-09.58.55:077][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.10.29-09.58.55:101][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.10.29-09.58.55:137][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.10.29-09.58.55:168][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.10.29-09.58.55:176][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.10.29-09.58.55:188][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.10.29-09.58.55:225][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.10.29-09.58.55:257][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.10.29-09.58.55:285][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.10.29-09.58.55:313][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.10.29-09.58.55:326][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.10.29-09.58.55:360][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.10.29-09.58.55:384][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.10.29-09.58.55:402][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.10.29-09.58.55:423][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.10.29-09.58.55:454][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.10.29-09.58.55:465][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.10.29-09.58.55:487][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.10.29-09.58.55:521][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.10.29-09.58.55:560][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.10.29-09.58.55:598][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.10.29-09.58.55:659][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.10.29-09.58.55:857][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.10.29-09.58.55:983][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.10.29-09.58.56:014][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.10.29-09.58.56:043][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.10.29-09.58.56:050][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.10.29-09.58.56:058][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.10.29-09.58.56:061][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.10.29-09.58.56:074][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.10.29-09.58.56:078][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.10.29-09.58.56:082][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.10.29-09.58.56:087][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.10.29-09.58.56:091][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.10.29-09.58.56:096][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.10.29-09.58.56:103][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.10.29-09.58.56:106][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.10.29-09.58.56:109][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.10.29-09.58.56:114][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.10.29-09.58.56:117][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.10.29-09.58.56:123][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.10.29-09.58.56:133][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.10.29-09.58.56:140][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.10.29-09.58.56:152][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.10.29-09.58.56:167][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.10.29-09.58.56:183][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.10.29-09.58.56:195][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.10.29-09.58.56:215][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.10.29-09.58.56:233][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.10.29-09.58.56:264][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.10.29-09.58.56:277][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.10.29-09.58.56:298][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.10.29-09.58.56:317][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.10.29-09.58.56:320][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.10.29-09.58.56:322][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.10.29-09.58.56:325][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.10.29-09.58.56:328][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.10.29-09.58.56:330][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.10.29-09.58.56:335][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.10.29-09.58.56:340][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.10.29-09.58.56:342][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.10.29-09.58.56:345][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.10.29-09.58.56:347][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.10.29-09.58.56:350][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.10.29-09.58.56:352][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.10.29-09.58.56:354][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.10.29-09.58.56:358][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.10.29-09.58.56:359][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.10.29-09.58.56:364][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.10.29-09.58.56:367][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.10.29-09.58.56:370][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.10.29-09.58.56:372][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.10.29-09.58.56:375][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.10.29-09.58.56:377][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.10.29-09.58.56:380][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.10.29-09.58.56:383][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.10.29-09.58.56:386][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.10.29-09.58.56:388][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.10.29-09.58.56:391][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.10.29-09.58.56:393][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.10.29-09.58.56:396][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.10.29-09.58.56:399][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.10.29-09.58.56:401][688]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.10.29-09.58.56:403][688]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.10.29-09.58.56:581][688]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005311 seconds
+[2022.10.29-09.58.59:130][688]LogSavePackage: Moving output files for package: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2022.10.29-09.58.59:130][688]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/HDRI_Epic_Courtyard_DaylightC6F251FC446D027B3CB585837A351BBA.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset'
+[2022.10.29-09.58.59:208][688]AssetCheck: New page: Asset Save: HDRI_Epic_Courtyard_Daylight
+[2022.10.29-09.58.59:208][688]LogContentValidation: Display: Validating TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2022.10.29-09.59.03:945][976]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.10.29-09.59.10:621][395]LogViewport: Scene viewport resized to 539x271, mode Windowed.
+[2022.10.29-09.59.10:652][397]LogViewport: Scene viewport resized to 539x257, mode Windowed.
+[2022.10.29-09.59.10:691][399]LogViewport: Scene viewport resized to 539x234, mode Windowed.
+[2022.10.29-09.59.10:724][401]LogViewport: Scene viewport resized to 539x222, mode Windowed.
+[2022.10.29-09.59.10:757][403]LogViewport: Scene viewport resized to 539x205, mode Windowed.
+[2022.10.29-09.59.10:791][405]LogViewport: Scene viewport resized to 539x191, mode Windowed.
+[2022.10.29-09.59.10:823][407]LogViewport: Scene viewport resized to 539x183, mode Windowed.
+[2022.10.29-09.59.10:856][409]LogViewport: Scene viewport resized to 539x180, mode Windowed.
+[2022.10.29-09.59.10:954][419]LogViewport: Scene viewport resized to 539x177, mode Windowed.
+[2022.10.29-09.59.10:994][423]LogViewport: Scene viewport resized to 539x173, mode Windowed.
+[2022.10.29-10.06.09:328][ 11]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.29-10.06.32:487][ 11]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.29-10.06.32:516][ 11]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.29-10.06.32:519][ 11]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.29-10.06.32:531][ 12]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.29-10.06.36:604][281]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD
+[2022.10.29-10.06.36:608][281]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.29-10.07.15:915][648]LogMetaData: Removing '/Game/HUD.SKEL_HUD_C' ref from Metadata '/Game/StarterContent/Blueprints/HUD.PackageMetaData'
+[2022.10.29-10.07.15:915][648]LogMetaData: Removing '/Game/HUD.HUD_C' ref from Metadata '/Game/StarterContent/Blueprints/HUD.PackageMetaData'
+[2022.10.29-10.07.15:915][648]LogMetaData: Removing '/Game/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Blueprints/HUD.PackageMetaData'
+[2022.10.29-10.07.15:915][648]LogMetaData: Removing '/Game/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Blueprints/HUD.PackageMetaData'
+[2022.10.29-10.07.15:915][648]LogMetaData: Removing '/Game/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Blueprints/HUD.PackageMetaData'
+[2022.10.29-10.07.15:980][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD" FILE="../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/HUD.uasset" SILENT=true
+[2022.10.29-10.07.15:985][648]LogSavePackage: Moving output files for package: /Game/HUD
+[2022.10.29-10.07.15:985][648]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/HUDE06EAA57400A62BA94519196CE68D737.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/HUD.uasset'
+[2022.10.29-10.07.16:017][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.29-10.07.16:036][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.29-10.07.16:051][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.29-10.07.16:065][648]AssetCheck: New page: Asset Save: HUD
+[2022.10.29-10.07.16:065][648]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD.HUD
+[2022.10.29-10.07.30:542][744]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.29-10.07.30:574][744]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.29-10.07.30:577][744]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.29-10.07.30:583][745]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.29-10.07.37:587][ 33]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.10.29-10.07.37:590][ 33]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.29-10.07.44:794][500]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenu
+[2022.10.29-10.07.44:813][500]LogMetaData: Removing '/Game/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2022.10.29-10.07.44:813][500]LogMetaData: Removing '/Game/MainMenu.MainMenu_C' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2022.10.29-10.07.44:813][500]LogMetaData: Removing '/Game/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2022.10.29-10.07.44:813][500]LogMetaData: Removing '/Game/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2022.10.29-10.07.44:813][500]LogMetaData: Removing '/Game/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewWidgetBlueprint.PackageMetaData'
+[2022.10.29-10.07.44:878][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/MainMenu.uasset" SILENT=true
+[2022.10.29-10.07.44:884][500]LogSavePackage: Moving output files for package: /Game/MainMenu
+[2022.10.29-10.07.44:884][500]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/MainMenuEC13E65A434607B6EEAE3C8E96DF3A3D.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/MainMenu.uasset'
+[2022.10.29-10.07.44:913][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.29-10.07.44:929][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.29-10.07.44:945][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.29-10.07.44:949][500]AssetCheck: New page: Asset Save: MainMenu
+[2022.10.29-10.07.44:949][500]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
+[2022.10.29-10.07.51:791][956]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.29-10.07.51:818][956]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.29-10.07.51:821][956]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.29-10.07.51:827][957]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.29-10.07.56:716][280]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> PauseMenu
+[2022.10.29-10.07.56:721][280]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.29-10.08.52:879][216]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.10.29-10.08.52:884][216]LogContentBrowser: Creating deferred item: NewWorld
+[2022.10.29-10.08.52:892][217]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.10.29-10.08.57:462][519]LogContentBrowser: Attempting asset rename: NewWorld -> Main
+[2022.10.29-10.08.57:462][519]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.08.57:476][519]LogContentBrowser: End creating deferred item NewWorld
+[2022.10.29-10.09.46:645][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.29-10.09.46:646][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.12.09:036][ 20]LogEditorTransaction: Undo Add Variable
+[2022.10.29-10.12.12:362][202]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.10.29-10.12.12:366][202]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.10.29-10.12.12:377][202]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-10.12.12:377][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-10.13.02:744][375]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.29-10.13.02:745][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.14.18:055][503]LogEditorTransaction: Undo Add Variable
+[2022.10.29-10.14.39:304][803]LogSlate: Took 0.003916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.29-10.15.12:329][158]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.15.12:379][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.29-10.15.17:965][499]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.15.18:007][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.29-10.15.42:413][507]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.15.42:456][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.29-10.15.46:826][768]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.15.46:867][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.29-10.16.19:344][243]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.16.19:387][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.29-10.16.23:974][519]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.16.24:014][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.29-10.16.47:157][526]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.16.47:198][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.29-10.16.51:534][789]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.16.51:577][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.29-10.18.01:914][700]LogViewport: Scene viewport resized to 505x394, mode Windowed.
+[2022.10.29-10.19.44:768][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.29-10.19.44:770][198]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2022.10.29-10.19.44:771][198]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2022.10.29-10.19.44:804][198]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2022.10.29-10.19.44:804][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2022.10.29-10.19.44:820][198]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2022.10.29-10.19.44:820][198]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonCharacter_Auto14BCDF0FD4AFA264AAD88F18B8BD0EEBA.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2022.10.29-10.19.44:820][198]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.10.29-10.20.56:055][946]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.20.56:094][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.29-10.20.58:665][147]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.10.29-10.20.58:666][147]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonCharacterC84C2EF546D71C4C5481108C0862198D.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.10.29-10.20.58:676][147]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.10.29-10.20.58:676][147]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.29-10.21.45:556][801]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.10.29-10.21.45:669][801]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.10.29-10.21.45:776][801]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.10.29-10.21.45:776][801]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-U7EVD9G
+[2022.10.29-10.21.45:776][801]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/HalloweenCC.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/Intermediate/TurnkeyReport_1.log" -log="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/Intermediate/TurnkeyLog_1.log" -project="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/HalloweenCC.uproject"  -Device=Win64@DESKTOP-U7EVD9G'
+[2022.10.29-10.21.45:776][801]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/HalloweenCC.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/Intermediate/TurnkeyReport_1.log" -log="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/Intermediate/TurnkeyLog_1.log" -project="C:/Users/UKGC/Documents/Unreal Projects/HalloweenCC/HalloweenCC.uproject"  -Device=Win64@DESKTOP-U7EVD9G" -nocompile ]
+[2022.10.29-10.21.45:888][810]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.10.29-10.21.58:020][137]LogViewport: Scene viewport resized to 657x302, mode Windowed.
+[2022.10.29-10.24.34:199][271]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.29-10.26.21:302][781]LogEditorTransaction: Undo Move Nodes
+[2022.10.29-10.26.23:599][976]LogEditorTransaction: Undo Add Node
+[2022.10.29-10.26.59:978][928]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.27.00:024][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.29-10.27.03:386][221]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.10.29-10.27.03:387][221]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonCharacter8317767C40F6E10A17170AA4547B8C36.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.10.29-10.27.03:398][221]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.10.29-10.27.03:398][221]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.29-10.28.12:285][440]LogEditorTransaction: Undo Add Node
+[2022.10.29-10.30.11:971][337]LogEditorTransaction: Undo Add Node
+[2022.10.29-10.31.44:480][328]LogEditorTransaction: Undo Add Node
+[2022.10.29-10.34.11:696][649]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.34.11:739][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.29-10.34.38:046][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.29-10.34.38:050][904]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2022.10.29-10.34.38:050][904]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2022.10.29-10.34.38:078][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2022.10.29-10.34.38:078][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2022.10.29-10.34.38:095][904]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2022.10.29-10.34.38:095][904]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonCharacter_Auto27FCFE7014582A5B721961594406FD796.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2022.10.29-10.34.38:096][904]LogFileHelpers: Auto-saving content packages took 0.046
+[2022.10.29-10.36.04:825][693]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-10.36.04:868][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.29-10.36.30:967][453]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.10.29-10.36.30:968][453]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonCharacter81BE077C49DC370F3A32ADAA685457A4.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.10.29-10.36.30:980][453]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.10.29-10.36.30:980][453]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.29-10.36.36:638][787]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.10.29-10.36.36:642][787]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.10.29-10.36.36:651][787]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-10.36.36:651][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-10.36.42:640][ 55]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2022.10.29-10.36.42:641][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.37.06:281][651]LogSlate: Window 'BP_FirstPersonProjectile' being destroyed
+[2022.10.29-10.37.06:285][651]LogSlate: Window 'BP_FirstPersonProjectile' being destroyed
+[2022.10.29-10.37.06:290][651]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-10.37.06:290][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-10.37.34:810][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2022.10.29-10.37.34:811][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.38.12:948][ 71]LogViewport: Scene viewport resized to 657x394, mode Windowed.
+[2022.10.29-10.38.44:980][ 68]LogSlate: Window 'BP_FirstPersonProjectile' being destroyed
+[2022.10.29-10.38.44:984][ 68]LogSlate: Window 'BP_FirstPersonProjectile' being destroyed
+[2022.10.29-10.38.44:989][ 68]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-10.38.44:989][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-10.38.55:162][731]LogDerivedDataCache: C:/Users/UKGC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.193 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.29-10.38.56:132][799]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+[2022.10.29-10.38.58:867][967]LogSlate: Window 'FirstPersonTemplateWeaponFire02' being destroyed
+[2022.10.29-10.38.58:871][967]LogSlate: Window 'FirstPersonTemplateWeaponFire02' being destroyed
+[2022.10.29-10.39.38:750][443]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2022.10.29-10.39.38:751][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.40.40:607][126]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.29-10.40.40:608][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.41.58:233][356]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.10.29-10.41.58:234][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-10.55.08:179][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.29-10.55.08:181][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.038
+[2022.10.29-10.55.08:181][698]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Rifle] ([2] browsable assets)...
+[2022.10.29-10.55.08:222][698]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle]
+[2022.10.29-10.55.08:222][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Rifle]
+[2022.10.29-10.55.08:238][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto3
+[2022.10.29-10.55.08:238][698]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_Rifle_Auto3B5F789E048F8AEDCE82F239124AED09C.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto3.uasset'
+[2022.10.29-10.55.08:238][698]LogFileHelpers: Auto-saving content packages took 0.057
+[2022.10.29-10.57.53:101][ 37]BlueprintLog: New page: Compile BP_Rifle
+[2022.10.29-10.57.53:153][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.29-10.58.11:696][115]BlueprintLog: New page: Compile BP_Rifle
+[2022.10.29-10.58.11:745][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.29-10.58.16:541][388]BlueprintLog: New page: Compile BP_Rifle
+[2022.10.29-10.58.16:592][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.10.29-10.58.58:414][537]LogEditorTransaction: Undo Add Node
+[2022.10.29-11.05.34:433][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.29-11.05.34:441][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto4
+[2022.10.29-11.05.34:441][330]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/EAHCBN229IT8APJO305AH5_Auto48ED33BD043582D29A0C1BAB5497BDD43.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto4.uasset'
+[2022.10.29-11.05.34:441][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.040
+[2022.10.29-11.05.34:441][330]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2022.10.29-11.05.34:442][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2022.10.29-11.05.34:469][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2022.10.29-11.05.34:469][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2022.10.29-11.05.34:487][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2022.10.29-11.05.34:487][330]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonCharacter_Auto4919278474B7BA0C51E5933A50B627361.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2022.10.29-11.05.34:488][330]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Rifle] ([2] browsable assets)...
+[2022.10.29-11.05.34:502][330]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle]
+[2022.10.29-11.05.34:502][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Rifle]
+[2022.10.29-11.05.34:517][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto4
+[2022.10.29-11.05.34:517][330]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_Rifle_Auto413DB93C844BDB112E9F6669EE0DC2426.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Rifle_Auto4.uasset'
+[2022.10.29-11.05.34:517][330]LogFileHelpers: Auto-saving content packages took 0.076
+[2022.10.29-11.05.37:213][489]Cmd: TRANSACTION UNDO
+[2022.10.29-11.05.37:213][489]LogEditorTransaction: Undo Add Node
+[2022.10.29-11.06.36:018][859]LogEditorTransaction: Undo Promote To Variable
+[2022.10.29-11.06.50:850][724]BlueprintLog: New page: Compile BP_Rifle
+[2022.10.29-11.06.50:903][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.29-11.08.12:996][ 57]BlueprintLog: New page: Compile BP_Rifle
+[2022.10.29-11.08.13:048][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.29-11.08.19:651][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Rifle" FILE="../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.10.29-11.08.19:667][470]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Rifle
+[2022.10.29-11.08.19:668][470]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_Rifle48D18ED546854ADA804F25ABA2CA656F.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.10.29-11.08.19:678][470]AssetCheck: New page: Asset Save: BP_Rifle
+[2022.10.29-11.08.19:678][470]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.10.29-11.09.14:708][890]BlueprintLog: New page: Compile BP_Rifle
+[2022.10.29-11.09.14:756][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.29-11.09.18:108][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Rifle" FILE="../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_Rifle.uasset" SILENT=true
+[2022.10.29-11.09.18:124][145]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Rifle
+[2022.10.29-11.09.18:125][145]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_Rifle68CE57724B4A6B743FC0A8889AC15584.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2022.10.29-11.09.18:136][145]AssetCheck: New page: Asset Save: BP_Rifle
+[2022.10.29-11.09.18:136][145]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2022.10.29-11.09.35:859][755]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.29-11.09.35:922][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.29-11.09.38:425][927]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.10.29-11.09.38:426][927]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonCharacter0B54F4B14AABFE1398877BA5002602E5.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.10.29-11.09.38:437][927]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.10.29-11.09.38:437][927]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.29-11.09.40:628][ 63]BlueprintLog: New page: Compile BP_FirstPersonProjectile
+[2022.10.29-11.09.40:673][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.29-11.09.42:818][246]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2022.10.29-11.09.42:819][246]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/BP_FirstPersonProjectile6956F6D84E78EE838272B59F55AFAB03.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2022.10.29-11.09.42:829][246]AssetCheck: New page: Asset Save: BP_FirstPersonProjectile
+[2022.10.29-11.09.42:829][246]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2022.10.29-11.09.46:661][474]LogSlate: Window 'BP_Rifle' being destroyed
+[2022.10.29-11.09.46:665][474]LogSlate: Window 'BP_Rifle' being destroyed
+[2022.10.29-11.09.46:672][474]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.09.46:672][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.09.46:729][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.09.46:729][474]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.09.46:730][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.09.46:783][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.09.46:783][474]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.09.46:783][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.09.48:396][577]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.10.29-11.09.48:400][577]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.10.29-11.09.51:755][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.29-11.09.51:840][842]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2022.10.29-11.09.51:841][842]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/EAHCBN229IT8APJO305AH5D4DDEDDC4113EB774143519CE19ABADD.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2022.10.29-11.09.51:850][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.29-11.09.51:873][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.29-11.09.51:879][842]LogSavePackage: Moving output files for package: /Game/Main
+[2022.10.29-11.09.51:879][842]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/Main232AA8004E247C8FC0F158A1A09C6C9D.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/Main.umap'
+[2022.10.29-11.09.51:883][842]LogFileHelpers: Saving map 'Main' took 0.033
+[2022.10.29-11.09.51:884][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseMenu" FILE="../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/PauseMenu.uasset" SILENT=true
+[2022.10.29-11.09.51:889][842]LogSavePackage: Moving output files for package: /Game/PauseMenu
+[2022.10.29-11.09.51:889][842]LogSavePackage: Moving '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Saved/PauseMenu33CEA28F4DCBBD8F959B3C966D68DC2D.tmp' to '../../../../../../Users/UKGC/Documents/Unreal Projects/HalloweenCC/Content/PauseMenu.uasset'
+[2022.10.29-11.09.51:902][842]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.29-11.09.51:902][842]LogContentValidation: Display: Validating World /Game/Main.Main
+[2022.10.29-11.09.51:902][842]LogContentValidation: Display: Validating WidgetBlueprint /Game/PauseMenu.PauseMenu
+[2022.10.29-11.09.51:902][842]LogContentValidation: Display: Validating BP_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
+[2022.10.29-11.09.55:376][ 74]LogViewport: Scene viewport resized to 539x179, mode Windowed.
+[2022.10.29-11.09.55:406][ 76]LogViewport: Scene viewport resized to 539x194, mode Windowed.
+[2022.10.29-11.09.55:442][ 78]LogViewport: Scene viewport resized to 539x207, mode Windowed.
+[2022.10.29-11.09.55:476][ 80]LogViewport: Scene viewport resized to 539x215, mode Windowed.
+[2022.10.29-11.09.55:510][ 82]LogViewport: Scene viewport resized to 539x229, mode Windowed.
+[2022.10.29-11.09.55:540][ 84]LogViewport: Scene viewport resized to 539x241, mode Windowed.
+[2022.10.29-11.09.55:573][ 86]LogViewport: Scene viewport resized to 539x252, mode Windowed.
+[2022.10.29-11.09.55:613][ 89]LogViewport: Scene viewport resized to 539x262, mode Windowed.
+[2022.10.29-11.09.55:653][ 91]LogViewport: Scene viewport resized to 539x264, mode Windowed.
+[2022.10.29-11.09.55:690][ 93]LogViewport: Scene viewport resized to 539x271, mode Windowed.
+[2022.10.29-11.09.55:883][114]LogViewport: Scene viewport resized to 539x279, mode Windowed.
+[2022.10.29-11.09.55:991][123]LogViewport: Scene viewport resized to 539x280, mode Windowed.
+[2022.10.29-11.09.56:030][125]LogViewport: Scene viewport resized to 539x286, mode Windowed.
+[2022.10.29-11.09.56:069][127]LogViewport: Scene viewport resized to 539x302, mode Windowed.
+[2022.10.29-11.09.56:110][129]LogViewport: Scene viewport resized to 539x312, mode Windowed.
+[2022.10.29-11.09.56:189][135]LogViewport: Scene viewport resized to 539x319, mode Windowed.
+[2022.10.29-11.09.56:235][138]LogViewport: Scene viewport resized to 539x322, mode Windowed.
+[2022.10.29-11.09.56:289][140]LogViewport: Scene viewport resized to 539x331, mode Windowed.
+[2022.10.29-11.09.56:924][213]LogViewport: Scene viewport resized to 539x329, mode Windowed.
+[2022.10.29-11.09.56:976][215]LogViewport: Scene viewport resized to 539x326, mode Windowed.
